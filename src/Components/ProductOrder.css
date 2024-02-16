@@ -1,0 +1,79 @@
+.p-img{
+width: 100%;
+}
+.p-brand{
+    color: rgb(166, 166, 166);
+}
+.p-disc{
+    margin-top: 10px;
+}
+.p-name{
+    margin-top: 10px;
+}
+
+.add-to-cart-btn{
+    background-color: rgb(255, 255, 255) !important;
+    border: 2px solid #ffb27b !important;
+    color: #2e2e2e !important;
+    margin-left: 10px;
+}   
+
+.pay-now-btn{
+    background-color: #29c911 !important;
+    border: 2px solid #29c911 !important;
+    color: #ffffff !important;
+    margin-left: 10px;
+    width: 150px;
+}  
+
+.dsc-hed{
+    margin-top: 30px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.tax-txt{
+    font-size: 12px;
+    color: gray;
+}
+
+.wishlist-btn{
+    padding-top: 10px;
+    width: 45px;
+    height: 47px;
+}
+.w-icon{
+    color: red;
+    font-size: 23px;
+    margin-left: -10px;
+}
+.n-icon{
+    color: rgb(160, 160, 160);
+    font-size: 23px;
+    margin-left: -10px;
+}
+
+.wish-btn-div{
+    text-align: right;
+}
+
+.waranty-se{
+    display: flex;
+    column-gap: 15px;
+}
+
+.waranty-se div img{
+ width: 25px
+}
+
+.waranty-se .w-itm{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.waranty-se .w-itm p{
+    font-size: 13px;
+    margin-top: 5px;
+    color: rgb(165, 165, 165);
+}

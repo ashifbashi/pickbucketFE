@@ -1,0 +1,12 @@
+.show-all-btn-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.show-all-btn-div a{
+
+    border: 1px solid #ff6b00;
+
+}
+

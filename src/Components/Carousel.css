@@ -1,0 +1,15 @@
+@media screen and (orientation: landscape) {
+    .carousel img {
+      height: 50vh;
+      object-fit:cover;
+    }
+  }
+
+  .main-co{
+    margin: 7px;
+    border-radius: 10px;
+  }
+
+  .co-in{
+    border-radius: 15px;
+  }
